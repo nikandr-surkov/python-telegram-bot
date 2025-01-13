@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Environment
+.env
+__pycache__/
+*.pyc
+venv/
+
+# Other
+*.log
