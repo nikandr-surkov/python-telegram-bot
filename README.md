@@ -32,6 +32,10 @@ This bot demonstrates:
 3. Enter URL: `https://github.com/nikandr-surkov/python-telegram-bot.git`
 4. Choose your project directory
 5. Click "Clone"
+6. Install dependencies:
+   ```bash
+   pip install python-telegram-bot python-dotenv
+   ```
 
 ### Option 2: Using Terminal
 1. Clone the repository:
